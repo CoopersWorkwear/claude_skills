@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# Claude Skills Setup Script
+# Initialize and configure Claude Skills for your environment
+
+echo "Claude Skills Setup"
+echo "=================="
+echo ""
+
+# Check if Claude is installed
+if ! command -v claude &> /dev/null; then
+    echo "⚠️  Claude not found. Please install Claude first."
+    exit 1
+fi
+
+echo "✓ Claude found"
+echo ""
+
+# Create necessary directories
+mkdir -p ~/.claude/skills
+echo "✓ Created skills directory"
+
+# Copy skills to Claude directory
+echo "Installing skills..."
+cp -r higgsfield-* ~/.claude/skills/
+echo "✓ Skills installed"
+
+# Make scripts executable
+chmod +x scripts/*.sh
+echo "✓ Scripts ready"
+
+echo ""
+echo "Setup complete! ✓"
+echo ""
+echo "Available skills:"
+echo "  - higgsfield-generate"
+echo "  - higgsfield-marketplace-cards"
+echo "  - higgsfield-product-photoshoot"
+echo "  - higgsfield-soul-id"
+echo ""
+echo "See README.md for usage information."

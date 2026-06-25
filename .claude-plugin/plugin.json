@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    {
+      "name": "higgsfield-generate",
+      "description": "Marketing content generation skill"
+    },
+    {
+      "name": "higgsfield-marketplace-cards",
+      "description": "Marketplace card creation skill"
+    },
+    {
+      "name": "higgsfield-product-photoshoot",
+      "description": "Product photoshoot coordination skill"
+    },
+    {
+      "name": "higgsfield-soul-id",
+      "description": "Brand identity and soul definition skill"
+    }
+  ]
+}
