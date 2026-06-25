@@ -8,7 +8,15 @@ delivered as scalable vector **SVG** + preview **PNG**.
 > size and editable for embroidery, hangtags, web and caps. The Higgsfield AI
 > image path is still wired up (see `BRIEF.md`) for when that engine reconnects.
 
-## ⚡ Direction B — "POP" (current) — `renders-pop/` · `svg-pop/`
+## ✅ Direction C — "PRO" (current) — `renders-pro/` · `svg-pro/`
+Concept **02 (Mega Wordmark)** developed into a real identity system: heavy
+display type (**Anton** + **Bebas Neue**), disciplined palette (ink + one
+signature **coral**, with lime/coral kept as a "loud" alt). Board:
+`renders-pro/_brand-board.png`. Artboards: primary stacked · icon monogram ·
+horizontal lockup · reversed-on-light · loud colourway · one-colour.
+Fonts vendored in `fonts/` (SIL OFL).
+
+## ⚡ Direction B — "POP" — `renders-pop/` · `svg-pop/`
 Bright, bold, modern golf-streetwear energy with an Aussie-sun punch.
 Contact sheet: `renders-pop/_contact-sheet.png`
 
