@@ -8,7 +8,14 @@ delivered as scalable vector **SVG** + preview **PNG**.
 > size and editable for embroidery, hangtags, web and caps. The Higgsfield AI
 > image path is still wired up (see `BRIEF.md`) for when that engine reconnects.
 
-## ✅ Direction C — "PRO" (current) — `renders-pro/` · `svg-pro/`
+## ✅ Direction D — "ATHLETIC" (current) — `renders-athletic/` · `renders-50/`
+Nike/Under-Armour-inspired, premium **monochrome** system. Iconic **swoosh +
+golf-ball** mark, bold **Archivo Black CG** monogram, wordmark, on-product mocks
+(`renders-athletic/_athletic-system.png`). Plus a **50-option exploration sheet**
+to choose from: `renders-50/_contact-sheet-50.png` (`svg-50/` has every mark as
+vector). Type: **Archivo Black**. Fonts vendored in `fonts/` (SIL OFL).
+
+## Direction C — "PRO" — `renders-pro/` · `svg-pro/`
 Concept **02 (Mega Wordmark)** developed into a real identity system: heavy
 display type (**Anton** + **Bebas Neue**), disciplined palette (ink + one
 signature **coral**, with lime/coral kept as a "loud" alt). Board:
