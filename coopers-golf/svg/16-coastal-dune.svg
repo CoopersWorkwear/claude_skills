@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><rect width="1000" height="1000" fill="#14213D"/><circle cx="500" cy="460" r="360" fill="none" stroke="#F4EFE3" stroke-width="6"/><clipPath id="cc16"><circle cx="500" cy="460" r="357"/></clipPath><g clip-path="url(#cc16)"><path d="M 140 640 Q 360 470 620 560 Q 800 620 860 560 L 860 820 L 140 820 Z" fill="#F4EFE3"/></g><g>
+    <rect x="466" y="460" width="8" height="150" rx="4" fill="#F4EFE3"/>
+    <circle cx="470" cy="460" r="7" fill="#F4EFE3"/>
+    <path d="M 470 466 L 562 490 L 470 518 Z" fill="#C8A24B"/>
+  </g><path d="M 600 360 q 18 -16 36 0 q 18 -16 36 0" stroke="#F4EFE3" stroke-width="6" fill="none"/><text x="500" y="900" font-family="Liberation Serif" font-weight="normal" font-size="48" fill="#F4EFE3" text-anchor="middle" letter-spacing="8">COOPERS GOLF</text></svg>

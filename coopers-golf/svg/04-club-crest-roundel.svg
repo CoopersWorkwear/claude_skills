@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><rect width="1000" height="1000" fill="#14213D"/><circle cx="500" cy="500" r="445" fill="none" stroke="#C8A24B" stroke-width="10"/><circle cx="500" cy="500" r="360" fill="none" stroke="#C8A24B" stroke-width="3"/><defs><path id="t500_500_405" d="M 95 500 A 405 405 0 0 1 905 500"/><path id="b500_500_405" d="M 95 500 A 405 405 0 0 0 905 500"/></defs><text font-family="Liberation Sans" font-weight="bold" font-size="52" fill="#C8A24B" letter-spacing="6" text-anchor="middle"><textPath href="#t500_500_405" startOffset="50%">COOPERS GOLF</textPath></text><text font-family="Liberation Sans" font-weight="bold" font-size="52" fill="#C8A24B" letter-spacing="6" text-anchor="middle"><textPath href="#b500_500_405" startOffset="50%">AUSTRALIA</textPath></text><g transform="translate(500 470)">
+    <g transform="rotate(26)"><g>
+    <rect x="-7.875" y="-315" width="15.75" height="315" rx="7.875" fill="#F4EFE3"/>
+    <rect x="-10.875" y="-315" width="21.75" height="63" rx="7.875" fill="#F4EFE3"/>
+    <g transform="rotate(-22)"><rect x="-7.875" y="-9.45" width="58.800000000000004" height="31.5" rx="15.75" fill="#F4EFE3"/></g>
+  </g></g>
+    <g transform="rotate(-26) scale(-1,1)"><g>
+    <rect x="-7.875" y="-315" width="15.75" height="315" rx="7.875" fill="#F4EFE3"/>
+    <rect x="-10.875" y="-315" width="21.75" height="63" rx="7.875" fill="#F4EFE3"/>
+    <g transform="rotate(-22)"><rect x="-7.875" y="-9.45" width="58.800000000000004" height="31.5" rx="15.75" fill="#F4EFE3"/></g>
+  </g></g>
+  </g><rect x="430" y="600" width="140" height="3" fill="#C8A24B"/><text x="500" y="660" font-family="Liberation Sans" font-weight="bold" font-size="34" fill="#C8A24B" text-anchor="middle" letter-spacing="10">EST 2026</text></svg>

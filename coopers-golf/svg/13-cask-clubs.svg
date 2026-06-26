@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000"><rect width="1000" height="1000" fill="#FBF8F1"/><g transform="translate(500 470)">
+    <g transform="rotate(26)"><g>
+    <rect x="-7.5" y="-300" width="15" height="300" rx="7.5" fill="#14213D"/>
+    <rect x="-10.5" y="-300" width="21" height="60" rx="7.5" fill="#14213D"/>
+    <g transform="rotate(-22)"><rect x="-7.5" y="-9" width="56" height="30" rx="15" fill="#14213D"/></g>
+  </g></g>
+    <g transform="rotate(-26) scale(-1,1)"><g>
+    <rect x="-7.5" y="-300" width="15" height="300" rx="7.5" fill="#14213D"/>
+    <rect x="-10.5" y="-300" width="21" height="60" rx="7.5" fill="#14213D"/>
+    <g transform="rotate(-22)"><rect x="-7.5" y="-9" width="56" height="30" rx="15" fill="#14213D"/></g>
+  </g></g>
+  </g><path d="M 360 390 Q 332 520 360 650 L 640 650 Q 668 520 640 390 Z" fill="#8A5A2B"/><line x1="416" y1="396" x2="416" y2="644" stroke="#15171A" stroke-width="4" opacity="0.5"/><line x1="472" y1="396" x2="472" y2="644" stroke="#15171A" stroke-width="4" opacity="0.5"/><line x1="528" y1="396" x2="528" y2="644" stroke="#15171A" stroke-width="4" opacity="0.5"/><line x1="584" y1="396" x2="584" y2="644" stroke="#15171A" stroke-width="4" opacity="0.5"/><rect x="346" y="402" width="308" height="14" fill="#C8A24B"/><rect x="346" y="624" width="308" height="14" fill="#C8A24B"/><rect x="338" y="511" width="324" height="18" fill="#C8A24B"/><text x="500" y="840" font-family="Liberation Serif" font-weight="bold" font-size="56" fill="#14213D" text-anchor="middle" letter-spacing="8">COOPERS GOLF</text></svg>
